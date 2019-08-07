@@ -84,6 +84,7 @@ $( document ).ready(function() {
     
         clear_content();
 
+        $("#bigpic").attr("src","/assets/images/icons/individual/icons_large_bs1_blue.png");
         $("#bstitle").text("Baby Step 1");
         $("#bssubtitle").text("$1,000 Emergency Fund");
         $("#blurb1").text("An emergency fund is for those unexpected events in life that you can’t plan for: the loss of a job, an unexpected pregnancy, a faulty car transmission, and the list goes on and on. It’s not a matter of if these events will happen; it’s simply a matter of when they will happen.");
@@ -108,6 +109,7 @@ $( document ).ready(function() {
         $("#btnicon6").attr("src","/assets/images/icons/individual/icons_small_bs6.png");
         $("#btnicon7").attr("src","/assets/images/icons/individual/icons_small_bs7.png");
 
+        $("#bigpic").attr("src","/assets/images/icons/individual/icons_large_bs2_blue.png");
         $("#bstitle").text("Baby Step 2");
         $("#bssubtitle").text("Pay off all debt using the Debt Snowball");
         $("#blurb1").text("List your debts, excluding the house, in order. The smallest balance should be your number one priority. Don’t worry about interest rates unless two debts have similar payoffs. If that’s the case, then list the higher interest rate debt first.");
@@ -130,7 +132,8 @@ $( document ).ready(function() {
         $("#btnicon5").attr("src","/assets/images/icons/individual/icons_small_bs5.png");
         $("#btnicon6").attr("src","/assets/images/icons/individual/icons_small_bs6.png");
         $("#btnicon7").attr("src","/assets/images/icons/individual/icons_small_bs7.png");
-        
+
+        $("#bigpic").attr("src","/assets/images/icons/individual/icons_large_bs3_blue.png");
         $("#bstitle").text("Baby Step 3");
         $("#bssubtitle").text("3 to 6 months of expenses in savings");
         $("#blurb1").text("Once you complete the first two baby steps, you will have built serious momentum. But don’t start throwing all your “extra” money into investments quite yet. It’s time to build your full emergency fund. Ask yourself, “What would it take for me to live for three to six months if I lost my income?” Your answer to that question is how much you should save.");
@@ -153,7 +156,8 @@ $( document ).ready(function() {
         $("#btnicon5").attr("src","/assets/images/icons/individual/icons_small_bs5.png");
         $("#btnicon6").attr("src","/assets/images/icons/individual/icons_small_bs6.png");
         $("#btnicon7").attr("src","/assets/images/icons/individual/icons_small_bs7.png");
-        
+
+        $("#bigpic").attr("src","/assets/images/icons/individual/icons_large_bs4_blue.png");
         $("#bstitle").text("Baby Step 4");
         $("#bssubtitle").text("Invest 15% of household income for retirement");
         $("#blurb1").text("When you reach this step, you’ll have no payments—except the house—and a fully funded emergency fund. Now it’s time to get serious about building wealth.");
@@ -177,6 +181,7 @@ $( document ).ready(function() {
         $("#btnicon6").attr("src","/assets/images/icons/individual/icons_small_bs6.png");
         $("#btnicon7").attr("src","/assets/images/icons/individual/icons_small_bs7.png");
 
+        $("#bigpic").attr("src","/assets/images/icons/individual/icons_large_bs5_blue.png");
         $("#bstitle").text("Baby Step 5");
         $("#bssubtitle").text("College funding for children");
         $("#blurb1").text("By this point, you should have already started Baby Step 4—investing 15% of your income—before saving for college. Whether you are saving for you or your child to go to college, you need to start now.");
@@ -200,6 +205,8 @@ $( document ).ready(function() {
         $("#btnicon6").attr("src","/assets/images/icons/individual/icons_small_bs6_blue.png");
         $("#btnicon7").attr("src","/assets/images/icons/individual/icons_small_bs7.png");
 
+        
+        $("#bigpic").attr("src","/assets/images/icons/individual/icons_large_bs6_blue.png");
         $("#bstitle").text("Baby Step 6");
         $("#bssubtitle").text("Pay off your house early");
         $("#blurb1").text("Now it’s time to begin chunking all of your extra money toward the mortgage. You are getting closer to realizing the dream of a life with no house payments.");
@@ -223,6 +230,7 @@ $( document ).ready(function() {
         $("#btnicon6").attr("src","/assets/images/icons/individual/icons_small_bs6.png");
         $("#btnicon7").attr("src","/assets/images/icons/individual/icons_small_bs7_blue.png");
 
+        $("#bigpic").attr("src","/assets/images/icons/individual/icons_large_bs7_blue.png");
         $("#bstitle").text("Baby Step 7");
         $("#bssubtitle").text("Build wealth and give!");
         $("#blurb1").text("It’s time to build wealth and give like never before. Leave an inheritance for future generations, and bless others now with your excess. It's really the only way to live!");

@@ -1,3 +1,5 @@
+Look at my Readme in the app directory. These were the instructions given to me. 
+
 Front-end Developer Exercise
 ============================
 
