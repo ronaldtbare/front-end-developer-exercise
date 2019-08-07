@@ -10,6 +10,7 @@ This is a web application that shows the 7 baby steps to financial peace.
 
 This is a Node app. CSS Grid is used for layout. 
 All fonts are contained in project.
+All assets were created by Ramsey Solutions.
 
 Run:
 
